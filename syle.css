@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 10px;
+}
+marquee{
+    background-color: rgb(76, 136, 116);
+    color: rgb(141, 224, 58);
+}
+div{
+    height: 130px;
+    width: 90%;
+    background-color: rgb(240, 238, 243);
+    border-radius: 10px;
+    border: 2px solid black;
+}
+main{
+    height: 60vh;
+    width: 90%;
+    background-color: rgb(240, 238, 243);
+    border-radius: 10px;
+    border: 2px solid black;
+}
+button{
+    margin: 15px 130px;
+    padding: 13px;
+    background-color: green;
+    color: rgb(255, 253, 253);
+    border-radius: 10px;
+    
+}
+#cv12{
+height: 150px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
